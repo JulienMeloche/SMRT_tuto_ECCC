@@ -79,4 +79,4 @@ That's it! Now you should be able to run jupyter as before:
 jupyter notebook SMRT_tuto_ECCC.ipynb
 ```
 
-#### Optional extra: the SMRT developers also provide some tutorials for SMRT that may interest you: https://github.com/smrt-model/tutorials**
+#### Optional extra: the SMRT developers also provide some tutorials for SMRT that may interest you: https://github.com/smrt-model/tutorials
