@@ -1,0 +1,13 @@
+name: jm-smrt
+channels:
+  - defaults
+dependencies:
+  - python=3.11.5
+  - jupyter
+  - xarray
+  - pandas
+  - numpy
+  - matplotlib
+  - netcdf4
+  - numba>=0.40
+  - joblib>=1.0.0
